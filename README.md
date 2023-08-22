@@ -5,3 +5,9 @@ Zagadnienia do matury z informatyki- python
  - [`liczba-pierwsza.py`](https://github.com/JanGospodarek/Zagadnienia-matura-informatyka/blob/main/liczba_pierwsza.py) - Sprawdź czy podana liczba jest liczbą pierwszą
  - [`rozklad-na-czynniki.py`](https://github.com/JanGospodarek/Zagadnienia-matura-informatyka/blob/main/rozklad-na-czynniki.py) - Wypisz czynniki pierwsze podanej liczby
  - [`sito_erastotenesa.py`](https://github.com/JanGospodarek/Zagadnienia-matura-informatyka/blob/main/sito_erastotenesa.py) - Sito Erastotenesa do znalezienia liczb pierwszych w przedziale <2,n>
+
+## Przydatne linki
+ - https://www.algorytm.edu.pl/algorytmy-maturalne.html
+ - https://pl.khanacademy.org/computing/computer-science/algorithms
+ - https://maturainformatyka.pl/
+ - https://binarnie.pl/maturazinformatyki/
