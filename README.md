@@ -7,7 +7,7 @@ Zagadnienia do matury z informatyki- python
  - [`sito_erastotenesa.py`](https://github.com/JanGospodarek/Zagadnienia-matura-informatyka/blob/main/sito_erastotenesa.py) - Sito Erastotenesa do znalezienia liczb pierwszych w przedziale <2,n>
 
 ## Przydatne linki
- - https://www.algorytm.edu.pl/algorytmy-maturalne.html
- - https://pl.khanacademy.org/computing/computer-science/algorithms
- - https://maturainformatyka.pl/
- - https://binarnie.pl/maturazinformatyki/
+ - [algorytm](https://www.algorytm.edu.pl/algorytmy-maturalne.html)
+ - [khanacademy](https://pl.khanacademy.org/computing/computer-science/algorithms)
+ - [maturainformatyka](https://maturainformatyka.pl/)
+ - [binarnie](https://binarnie.pl/maturazinformatyki/)
