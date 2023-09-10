@@ -7,3 +7,4 @@ def znajdz_dzielniki(n):
     return dzielniki
 
 print(znajdz_dzielniki(56))
+# test
