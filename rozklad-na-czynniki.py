@@ -8,4 +8,4 @@ def rozloz(n):
             czynniki.append(k)
         k += 1
     return czynniki
-print(rozloz(27))
+print(rozloz(330))
