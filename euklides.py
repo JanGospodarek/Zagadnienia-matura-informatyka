@@ -15,7 +15,7 @@ print(iter(650,330))
 #rekurencyjnie
 
 def rekur(a,b):
-    if(a!=b):
+    if a!=b:
         if a>b:
           return rekur(a-b,b)
         else:
